@@ -9,3 +9,7 @@ dependencies:
   - scipy
   - traitlets
   - basemap
+  - ipykernel
+  - ipyleaflet
+  - ipympl
+  - voila=0.1.21
