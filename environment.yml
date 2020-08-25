@@ -1,0 +1,12 @@
+name: simulation-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pylab
+  - mpl_toolkits
+  - IPython.display
+  - ipywidgets
+  - scipy
+  - traitlets
