@@ -13,3 +13,4 @@ dependencies:
   - ipyleaflet
   - ipympl
   - voila=0.1.21
+  - ffmpeg
