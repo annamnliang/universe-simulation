@@ -4,9 +4,8 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - pylab
-  - mpl_toolkits
-  - IPython.display
+  - IPython
   - ipywidgets
   - scipy
   - traitlets
+  - basemap
