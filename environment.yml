@@ -12,5 +12,5 @@ dependencies:
   - ipykernel
   - ipyleaflet
   - ipympl
-  - voila=0.1.21
   - ffmpeg
+  - jupyter_contrib_nbextensions
