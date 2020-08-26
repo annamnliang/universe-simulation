@@ -7,7 +7,7 @@ An interactive N-body simulation of stars moving in a box
 This interactive Jupyter Notebook generates simple simulations of particles moving in a box with only gravitational interactions. It uses widgets to take in user inputs for a system of particles (e.g. the number of particles, their mass, their initial configuration) and displays the animation of the particles' movements, as well as the corresponding correlation function and power spectrum over time. 
 
 ## Installing Dependencies
-This notebook requires a Python3 kernel to run. The best way to run this offline it is to install [Anaconda](https://docs.anaconda.com/anaconda/install/), which has the Jupyter Notebook application. The required packages are listed in the file 'environment.yml'. These packages can be installed in a Conda environment using 
+This notebook requires a Python3 kernel to run. The best way to run this offline is to install [Anaconda](https://docs.anaconda.com/anaconda/install/), which has the Jupyter Notebook application. The required packages are listed in the file 'environment.yml'. These packages can be installed in a Conda environment using 
 ```
 git clone https://github.com/annamnliang/universe-simulation
 cd universe-simulation
