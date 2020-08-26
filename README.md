@@ -1,4 +1,4 @@
-# universe-simulation
+# Choose Your Own Universe
 An interactive N-body simulation of stars moving in a box
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/annamnliang/universe-simulation/master)
